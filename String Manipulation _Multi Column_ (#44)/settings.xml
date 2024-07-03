@@ -9,63 +9,63 @@
         <config key="column_selection">
             <entry key="filter-type" type="xstring" value="name_pattern"/>
             <config key="included_names">
-                <entry key="array-size" type="xint" value="2"/>
-                <entry key="0" type="xstring" value="split_4"/>
-                <entry key="1" type="xstring" value="split_5"/>
-            </config>
-            <config key="excluded_names">
-                <entry key="array-size" type="xint" value="51"/>
+                <entry key="array-size" type="xint" value="53"/>
                 <entry key="0" type="xstring" value="question_string"/>
                 <entry key="1" type="xstring" value="split_0"/>
                 <entry key="2" type="xstring" value="split_1"/>
                 <entry key="3" type="xstring" value="split_2"/>
                 <entry key="4" type="xstring" value="split_3"/>
-                <entry key="5" type="xstring" value="1"/>
-                <entry key="6" type="xstring" value="6"/>
-                <entry key="7" type="xstring" value="12"/>
-                <entry key="8" type="xstring" value="13"/>
-                <entry key="9" type="xstring" value="14"/>
-                <entry key="10" type="xstring" value="15"/>
-                <entry key="11" type="xstring" value="19"/>
-                <entry key="12" type="xstring" value="20"/>
-                <entry key="13" type="xstring" value="21"/>
-                <entry key="14" type="xstring" value="23"/>
-                <entry key="15" type="xstring" value="24"/>
-                <entry key="16" type="xstring" value="28"/>
-                <entry key="17" type="xstring" value="29"/>
-                <entry key="18" type="xstring" value="33"/>
-                <entry key="19" type="xstring" value="34"/>
-                <entry key="20" type="xstring" value="35"/>
-                <entry key="21" type="xstring" value="36"/>
-                <entry key="22" type="xstring" value="37"/>
-                <entry key="23" type="xstring" value="42"/>
-                <entry key="24" type="xstring" value="43"/>
-                <entry key="25" type="xstring" value="44"/>
-                <entry key="26" type="xstring" value="45"/>
-                <entry key="27" type="xstring" value="46"/>
-                <entry key="28" type="xstring" value="47"/>
-                <entry key="29" type="xstring" value="52"/>
-                <entry key="30" type="xstring" value="54"/>
-                <entry key="31" type="xstring" value="56"/>
-                <entry key="32" type="xstring" value="57"/>
-                <entry key="33" type="xstring" value="62"/>
-                <entry key="34" type="xstring" value="64"/>
-                <entry key="35" type="xstring" value="65"/>
-                <entry key="36" type="xstring" value="66"/>
-                <entry key="37" type="xstring" value="67"/>
-                <entry key="38" type="xstring" value="68"/>
-                <entry key="39" type="xstring" value="69"/>
-                <entry key="40" type="xstring" value="70"/>
-                <entry key="41" type="xstring" value="71"/>
-                <entry key="42" type="xstring" value="72"/>
-                <entry key="43" type="xstring" value="73"/>
-                <entry key="44" type="xstring" value="74"/>
-                <entry key="45" type="xstring" value="76"/>
-                <entry key="46" type="xstring" value="77"/>
-                <entry key="47" type="xstring" value="78"/>
-                <entry key="48" type="xstring" value="81"/>
-                <entry key="49" type="xstring" value="82"/>
-                <entry key="50" type="xstring" value="85"/>
+                <entry key="5" type="xstring" value="split_4"/>
+                <entry key="6" type="xstring" value="split_5"/>
+                <entry key="7" type="xstring" value="1"/>
+                <entry key="8" type="xstring" value="6"/>
+                <entry key="9" type="xstring" value="12"/>
+                <entry key="10" type="xstring" value="13"/>
+                <entry key="11" type="xstring" value="14"/>
+                <entry key="12" type="xstring" value="15"/>
+                <entry key="13" type="xstring" value="19"/>
+                <entry key="14" type="xstring" value="20"/>
+                <entry key="15" type="xstring" value="21"/>
+                <entry key="16" type="xstring" value="23"/>
+                <entry key="17" type="xstring" value="24"/>
+                <entry key="18" type="xstring" value="28"/>
+                <entry key="19" type="xstring" value="29"/>
+                <entry key="20" type="xstring" value="33"/>
+                <entry key="21" type="xstring" value="34"/>
+                <entry key="22" type="xstring" value="35"/>
+                <entry key="23" type="xstring" value="36"/>
+                <entry key="24" type="xstring" value="37"/>
+                <entry key="25" type="xstring" value="42"/>
+                <entry key="26" type="xstring" value="43"/>
+                <entry key="27" type="xstring" value="44"/>
+                <entry key="28" type="xstring" value="45"/>
+                <entry key="29" type="xstring" value="46"/>
+                <entry key="30" type="xstring" value="47"/>
+                <entry key="31" type="xstring" value="52"/>
+                <entry key="32" type="xstring" value="54"/>
+                <entry key="33" type="xstring" value="56"/>
+                <entry key="34" type="xstring" value="57"/>
+                <entry key="35" type="xstring" value="62"/>
+                <entry key="36" type="xstring" value="64"/>
+                <entry key="37" type="xstring" value="65"/>
+                <entry key="38" type="xstring" value="66"/>
+                <entry key="39" type="xstring" value="67"/>
+                <entry key="40" type="xstring" value="68"/>
+                <entry key="41" type="xstring" value="69"/>
+                <entry key="42" type="xstring" value="70"/>
+                <entry key="43" type="xstring" value="71"/>
+                <entry key="44" type="xstring" value="72"/>
+                <entry key="45" type="xstring" value="73"/>
+                <entry key="46" type="xstring" value="74"/>
+                <entry key="47" type="xstring" value="76"/>
+                <entry key="48" type="xstring" value="77"/>
+                <entry key="49" type="xstring" value="78"/>
+                <entry key="50" type="xstring" value="81"/>
+                <entry key="51" type="xstring" value="82"/>
+                <entry key="52" type="xstring" value="85"/>
+            </config>
+            <config key="excluded_names">
+                <entry key="array-size" type="xint" value="0"/>
             </config>
             <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
             <config key="name_pattern">
@@ -89,7 +89,7 @@
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
-        <entry key="EXPRESSION" type="xstring" value="replace($$CURRENTCOLUMN$$, &quot;Yes&quot;, $split_5$)"/>
+        <entry key="EXPRESSION" type="xstring" value="toNull(replace(replace($$CURRENTCOLUMN$$, &quot;N/A&quot;, &quot;&quot;), &quot;No&quot;, &quot;&quot;))"/>
         <config key="APPEND_OR_REPLACE_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -99,7 +99,7 @@
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="false"/>
         </config>
-        <entry key="APPEND_COLUMN_SUFFIX" type="xstring" value="_attributes"/>
+        <entry key="APPEND_COLUMN_SUFFIX" type="xstring" value="_transformed"/>
         <config key="Abort execution on evaluation errors_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -109,7 +109,7 @@
             <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
-        <entry key="Insert missing values as null" type="xboolean" value="true"/>
+        <entry key="Insert missing values as null" type="xboolean" value="false"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
@@ -138,6 +138,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="5160ea50-30e6-485e-a0b6-c605374e35cf"/>
+        <entry key="file_store_id" type="xstring" value="2f5e30f7-97e7-43e4-a309-4ed67881c664"/>
     </config>
 </config>
